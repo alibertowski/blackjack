@@ -1,6 +1,7 @@
 use card::Card;
 
 mod card;
+mod deck;
 
 const CARDS_IN_DECK: usize = 52;
 
