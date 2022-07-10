@@ -1,3 +1,4 @@
+#[derive(Copy, Clone, Debug)]
 pub enum Card {
     Heart(u8),
     Spade(u8),
